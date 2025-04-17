@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @syed-aban
-- 👀 I’m interested in Web and App Development with Flask for the Back-End
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Full Stack Web Development with the MERN Tech Stack
+- 🌱 I’m currently learning the MERN tech stack
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
